@@ -53,6 +53,9 @@ class Main:
             # cv2.imwrite(img_name, final_img) # Outputing workable image, optional
 
             final_img = [img_name] + final_img # Pridani jmena souboru
+
+            while len(final_img) != 7:
+                final_img.append('')
             
             csv.append_row(final_img)
 
