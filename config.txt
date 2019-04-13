@@ -1,0 +1,19 @@
+              `.-/::/-``                   achieveorbit@DEEPTHOUGHT 
+            .-/osssssssso/.                ------------------------ 
+           :osyysssssssyyys+-              OS: Antergos Linux x86_64 
+        `.+yyyysssssssssyyyyy+.            Host: Inspiron 7559 1.2.9 
+       `/syyyyyssssssssssyyyyys-`          Kernel: 5.0.7-arch1-1-ARCH 
+      `/yhyyyyysss++ssosyyyyhhy/`          Uptime: 18 hours, 50 mins 
+     .ohhhyyyyso++/+oso+syy+shhhho.        Packages: 1234 (pacman) 
+    .shhhhysoo++//+sss+++yyy+shhhhs.       Shell: zsh 5.7.1 
+   -yhhhhs+++++++ossso+++yyys+ohhddy:      Resolution: 1920x1080 
+  -yddhhyo+++++osyyss++++yyyyooyhdddy-     DE: GNOME 3.32.0 
+ .yddddhso++osyyyyys+++++yyhhsoshddddy`    WM: GNOME Shell 
+`odddddhyosyhyyyyyy++++++yhhhyosddddddo    WM Theme: Numix-Frost 
+.dmdddddhhhhhhhyyyo+++++shhhhhohddddmmh.   Theme: Numix-Frost [GTK2/3] 
+ddmmdddddhhhhhhhso++++++yhhhhhhdddddmmdy   Icons: Numix-Square [GTK2/3] 
+dmmmdddddddhhhyso++++++shhhhhddddddmmmmh   Terminal: gnome-terminal 
+-dmmmdddddddhhyso++++oshhhhdddddddmmmmd-   CPU: Intel i7-6700HQ (8) @ 3.500GHz 
+.smmmmddddddddhhhhhhhhhdddddddddmmmms.     GPU: NVIDIA GeForce GTX 960M 
+   `+ydmmmdddddddddddddddddddmmmmdy/.      GPU: Intel HD Graphics 530 
+      `.:+ooyyddddddddddddyyso+:.`         Memory: 7255MiB / 15906MiB 
